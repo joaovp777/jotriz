@@ -87,7 +87,7 @@ const perguntas = [
         "branca",
         "azul escuro",
       ],
-      correta: 2
+      correta: 1
     }
   ];
   
